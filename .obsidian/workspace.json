@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "4d78e1015793733a",
+    "type": "split",
+    "children": [
+      {
+        "id": "66bc45c4cc837903",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "181c5d06485c81db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypertrophy/Protein/Protein.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protein"
+            }
+          },
+          {
+            "id": "d9808b014082145e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypertrophy/Protein/Protein.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protein"
+            }
+          },
+          {
+            "id": "2b35e30faa0bd14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypertrophy/Protein/Protein.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protein"
+            }
+          },
+          {
+            "id": "78fba12e3f164065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypertrophy/Protein/Protein.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protein"
+            }
+          },
+          {
+            "id": "04dba2599cb41b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypertrophy/Hypertrophy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hypertrophy"
+            }
+          },
+          {
+            "id": "1c1b07a18481f328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypertrophy/Protein/Protein.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protein"
+            }
+          },
+          {
+            "id": "c362bb6e75893b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypertrophy/Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Links"
+            }
+          },
+          {
+            "id": "6252b98adae21949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypertrophy/Protein/Protein.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protein"
+            }
+          },
+          {
+            "id": "0e76c8374c99132c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypertrophy/Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Links"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e14bdb1201252926",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d9d814bfe7d59fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cc881e08fbcb534",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c90d6796decbf785",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8fe506e550ef0701",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e7ad054fe18309da",
+    "type": "split",
+    "children": [
+      {
+        "id": "74f4024050ab4afc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "026a943b55603006",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hypertrophy/Protein/Authentication.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Authentication"
+            }
+          },
+          {
+            "id": "68e2b7d37ef5adf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f99712c87b2a0637",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a1f4b13db0caef3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4cc881e08fbcb534",
+  "lastOpenFiles": [
+    "LICENSE",
+    "Hypertrophy/Protein/Libraries.md",
+    "Hypertrophy/Protein/Protein.md",
+    "Hypertrophy/Protein/Session.md",
+    "Hypertrophy/Protein/Security.md",
+    "Hypertrophy/Protein/Redis.md",
+    "Hypertrophy/Awesome.md",
+    "Hypertrophy/Links.md",
+    "Hypertrophy/Hypertrophy.md",
+    "Hypertrophy/Stamina/Stamina.md",
+    "Hypertrophy/Protein/Authentication.md",
+    "Hypertrophy/Protein/DB.md",
+    "Hypertrophy/Calisthenics/Calisthenics.md",
+    "Hypertrophy/Stamina",
+    "Hypertrophy/Calisthenics",
+    "Hypertrophy/Protein",
+    "Untitled",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Linux/Linux Commands.md",
+    "Linux",
+    "Hypertrophy",
+    "Excalidraw/Drawing 2024-11-09 15.24.43.excalidraw.md",
+    "Excalidraw",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

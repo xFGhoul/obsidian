@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
+  "monospaceFontFamily": "Fira Code",
+  "enabledCssSnippets": [
+    "Better Checkboxes"
+  ]
+}
