@@ -1,2 +1,8 @@
 - [ ] Pooling
+- [ ] Implement https://crates.io/crates/diesel-async (done) 5/12/2024
+- [ ] fix database error handling as if it fails everything is silent
+- [ ] [Linting](https://github.com/sqlfluff/sqlfluff) 
+- [ ] Streak system
+- [ ] leaderboard system based on streak
+- [ ] [GUI](https://github.com/outerbase/studio?tab=readme-ov-file)
 - [ ] 

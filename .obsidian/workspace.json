@@ -4,95 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "66bc45c4cc837903",
+        "id": "1949192f5f0108a9",
         "type": "tabs",
         "children": [
           {
-            "id": "181c5d06485c81db",
+            "id": "1086a5d4ea8fbe49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypertrophy/Protein/Protein.md",
+                "file": "Hypertrophy/Protein/Authentication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protein"
+              "title": "Authentication"
             }
           },
           {
-            "id": "d9808b014082145e",
+            "id": "934d96bb3326d171",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypertrophy/Protein/Protein.md",
+                "file": "Hypertrophy/Protein/Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protein"
+              "title": "Testing"
             }
           },
           {
-            "id": "2b35e30faa0bd14d",
+            "id": "9e3322b5f8fd95a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypertrophy/Protein/Protein.md",
+                "file": "Hypertrophy/Protein/Input Validation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protein"
+              "title": "Input Validation"
             }
           },
           {
-            "id": "78fba12e3f164065",
+            "id": "574f6bb357545fae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypertrophy/Protein/Protein.md",
+                "file": "Hypertrophy/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protein"
+              "title": "Docker"
             }
           },
           {
-            "id": "04dba2599cb41b9d",
+            "id": "2728cccbb0d4582d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypertrophy/Hypertrophy.md",
+                "file": "Hypertrophy/Protein/Libraries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hypertrophy"
+              "title": "Libraries"
             }
           },
           {
-            "id": "1c1b07a18481f328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hypertrophy/Protein/Protein.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Protein"
-            }
-          },
-          {
-            "id": "c362bb6e75893b5b",
+            "id": "0860a04c02604984",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,35 +92,35 @@
             }
           },
           {
-            "id": "6252b98adae21949",
+            "id": "30f0fd19d9528440",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypertrophy/Protein/Protein.md",
+                "file": "Hypertrophy/Backups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protein"
+              "title": "Backups"
             }
           },
           {
-            "id": "0e76c8374c99132c",
+            "id": "978211f086de37dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypertrophy/Links.md",
+                "file": "Hypertrophy/CI & CD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "CI & CD"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -254,13 +240,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "5e87d75ddcf6d5cc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,37 +266,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4cc881e08fbcb534",
+  "active": "978211f086de37dc",
   "lastOpenFiles": [
-    "LICENSE",
-    "Hypertrophy/Protein/Libraries.md",
-    "Hypertrophy/Protein/Protein.md",
-    "Hypertrophy/Protein/Session.md",
-    "Hypertrophy/Protein/Security.md",
-    "Hypertrophy/Protein/Redis.md",
-    "Hypertrophy/Awesome.md",
+    "Hypertrophy/Backups.md",
+    "Hypertrophy/CI & CD.md",
     "Hypertrophy/Links.md",
-    "Hypertrophy/Hypertrophy.md",
-    "Hypertrophy/Stamina/Stamina.md",
+    "Hypertrophy/Protein/Email.md",
+    "Hypertrophy/Protein/Libraries.md",
+    "Hypertrophy/Monitoring.md",
+    "Hypertrophy/Docker.md",
+    "Hypertrophy/Protein/Logging.md",
+    "Hypertrophy/Protein/Input Validation.md",
+    "Hypertrophy/Protein/Testing.md",
     "Hypertrophy/Protein/Authentication.md",
+    "Hypertrophy/Protein/Session.md",
+    "Hypertrophy/Protein/Protein.md",
+    "Hypertrophy/Hypertrophy.md",
+    "Hypertrophy/Protein/Redis.md",
+    "Hypertrophy/Protein/Security.md",
     "Hypertrophy/Protein/DB.md",
+    "Hypertrophy/Stamina/Stamina.md",
+    "Linux/Linux Commands.md",
+    "Hypertrophy/System Design.md",
+    "Hypertrophy/Awesome.md",
     "Hypertrophy/Calisthenics/Calisthenics.md",
+    "Hypertrophy/Ideas/version.md",
+    "Excalidraw",
+    "Hypertrophy/Ideas",
+    "LICENSE",
     "Hypertrophy/Stamina",
     "Hypertrophy/Calisthenics",
     "Hypertrophy/Protein",
-    "Untitled",
     "Untitled.canvas",
     "Untitled.md",
-    "Linux/Linux Commands.md",
     "Linux",
     "Hypertrophy",
     "Excalidraw/Drawing 2024-11-09 15.24.43.excalidraw.md",
-    "Excalidraw",
-    "Welcome.md",
-    "create a link.md"
+    "Welcome.md"
   ]
 }

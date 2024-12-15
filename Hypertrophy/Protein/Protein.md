@@ -7,4 +7,5 @@ Rust Backend API
 - [ ] [[Session]] Management
 - [ ] [[Authentication]] System
 - [ ] [[Security]] Measurements
-- [ ] 
+---
+- External requests using reqwest
